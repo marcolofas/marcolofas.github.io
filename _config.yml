@@ -43,13 +43,12 @@ include:
 author:
   name: " "
   avatar: "/assets/images/profile.jpg"
-  bio: "PhD Candidate in Economics, University of Southern California"
   location: "Los Angeles, CA"
   links:
     - label: "lofaso@usc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lofaso@usc.edu"
-    - label: "Curriculum Vitae"
+    - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/files/CV.pdf"
 
