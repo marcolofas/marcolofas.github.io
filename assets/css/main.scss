@@ -53,3 +53,24 @@
 .author__urls a[href$=".pdf"] {
   cursor: pointer;
 }
+
+/* Collapsible abstract styling */
+details {
+  margin-top: 5px;
+}
+
+details summary {
+  cursor: pointer;
+  color: #494e52;
+  font-weight: bold;
+  font-size: 0.9em;
+  display: inline-block;
+  padding: 2px 8px;
+  border: 1px solid #494e52;
+  border-radius: 3px;
+}
+
+details summary:hover {
+  background-color: #494e52;
+  color: #fff;
+}

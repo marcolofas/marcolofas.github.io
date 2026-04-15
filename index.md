@@ -13,3 +13,9 @@ I am an applied microeconomist with research interests at the intersection of sp
 ## Job Market Paper
 
 **"The Geography of Protests: Spatial Fragmentation, Participation and Backlash in the George Floyd Movement"**
+
+<details>
+<summary>Abstract</summary>
+<br>
+<small>Your abstract text here. Replace this with the actual abstract of your paper.</small>
+</details>
