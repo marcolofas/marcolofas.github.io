@@ -46,15 +46,12 @@ author:
   bio: "PhD Candidate in Economics, University of Southern California"
   location: "Los Angeles, CA"
   links:
-    - label: "Email"
+    - label: "lofaso@usc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lofaso@usc.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/MarcoLoFaso"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/marco-lo-faso-3939a485/"
+    - label: "Curriculum Vitae"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/CV.pdf"
 
 # Defaults
 defaults:
