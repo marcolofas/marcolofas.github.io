@@ -10,8 +10,6 @@ I am an applied microeconomist with research interests at the intersection of sp
 
 ---
 
-## Research
-
-### Job Market Paper
+## Job Market Paper
 
 **"The Geography of Protests: Spatial Fragmentation, Participation and Backlash in the George Floyd Movement"**
