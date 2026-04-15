@@ -7,6 +7,17 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+/* Fix sidebar: no fade effect */
+.sidebar {
+  opacity: 1 !important;
+  transition: none !important;
+  -webkit-transition: none !important;
+
+  &:hover {
+    opacity: 1 !important;
+  }
+}
+
 /* Profile picture: show naturally, no effects */
 .author__avatar {
   display: block !important;
@@ -23,22 +34,12 @@
     opacity: 1 !important;
     filter: none !important;
     -webkit-filter: none !important;
-    mix-blend-mode: normal !important;
     transition: none !important;
     -webkit-transition: none !important;
   }
-
-  a:hover img,
-  img:hover {
-    opacity: 1 !important;
-    filter: none !important;
-    -webkit-filter: none !important;
-    transform: none !important;
-  }
 }
 
-.author__avatar a:hover img {
-  opacity: 1 !important;
-  filter: none !important;
-  -webkit-filter: none !important;
+/* Smaller font in main content area */
+.page__content {
+  font-size: 0.85em;
 }
