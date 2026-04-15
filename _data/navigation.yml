@@ -1,9 +1,1 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "CV"
-    url: /assets/files/CV.pdf
-  - title: "Teaching"
-    url: /teaching/
+main: []
