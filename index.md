@@ -4,7 +4,7 @@ author_profile: true
 title: " "
 ---
 
-I'm a PhD candidate in Economics at the [University of Southern California](https://dornsife.usc.edu/economics/). During the academic year 2025-2026, I will be visiting the Department of Economics at [Harvard University](https://economics.harvard.edu/).
+I'm a PhD candidate in Economics at the University of Southern California. During the academic year 2025-2026, I will be visiting the Department of Economics at Harvard University.
 
 <!-- Add your contact information below -->
 **Contact:**
