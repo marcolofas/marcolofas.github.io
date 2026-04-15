@@ -1,6 +1,6 @@
 # Site Settings
-title: "Marco Lofas"
-description: "Personal webpage of Marco Lofas"
+title: "Marco Lo Faso"
+description: "Personal webpage of Marco Lo Faso"
 url: "https://marcolofas.github.io"
 baseurl: ""
 repository: "marcolofas/marcolofas.github.io"
@@ -48,13 +48,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:YOUR_EMAIL@usc.edu"
+      url: "mailto:lofaso@usc.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/YOUR_TWITTER_HANDLE"
+      url: "https://x.com/MarcoLoFaso"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR_LINKEDIN/"
+      url: "https://www.linkedin.com/in/marco-lo-faso-3939a485/"
 
 # Defaults
 defaults:

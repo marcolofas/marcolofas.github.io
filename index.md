@@ -16,7 +16,7 @@ USC Dornsife: Department of Economics,
 3620 South Vermont Avenue, KAP 300,
 Los Angeles, CA 90089-0253
 
-Email: YOUR_USERNAME[at]usc.edu
+Email: lofaso[at]usc.edu
 
 [Curriculum Vitae (PDF)](/assets/files/CV.pdf)
 
