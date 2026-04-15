@@ -12,9 +12,6 @@ I am an applied microeconomist with research interests at the intersection of sp
 
 ## Research
 
-### Work in Progress
+### Job Market Paper
 
-<!-- Add works in progress here. Example format: -->
-<!--
-**"Paper Title"** (with Coauthor Name)
--->
+**"The Geography of Protests: Spatial Fragmentation, Participation and Backlash in the George Floyd Movement"**
