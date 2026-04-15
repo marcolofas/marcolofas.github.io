@@ -8,21 +8,19 @@
 @import "minimal-mistakes";
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 80px;
-  height: 80px;
+  display: block;
+  width: auto;
+  height: auto;
   opacity: 1 !important;
   filter: none !important;
   mix-blend-mode: normal !important;
-  background: white !important;
+  margin-bottom: 10px;
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0;
     opacity: 1 !important;
     filter: none !important;
     mix-blend-mode: normal !important;
-    background: white !important;
   }
 }
