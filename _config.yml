@@ -1,6 +1,6 @@
 # Site Settings
 title: "Marco Lo Faso"
-description: "Personal webpage of Marco Lo Faso"
+description: "Marco Lo Faso - PhD Candidate in Economics at the University of Southern California (USC), visiting Harvard University. Research in spatial economics, political economy, geography of protests, and the George Floyd movement."
 url: "https://marcolofas.github.io"
 baseurl: ""
 repository: "marcolofas/marcolofas.github.io"
@@ -10,7 +10,7 @@ minimal_mistakes_skin: "default"
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Search
-search: true
+search: false
 
 # Build Settings
 markdown: kramdown
@@ -43,7 +43,7 @@ include:
 author:
   name: " "
   avatar: "/assets/images/profile.jpg"
-  location: "Los Angeles, CA"
+  location: "Los Angeles, CA & Cambridge, MA"
   links:
     - label: "lofaso@usc.edu"
       icon: "fas fa-fw fa-envelope-square"

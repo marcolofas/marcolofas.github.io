@@ -74,3 +74,10 @@ details summary:hover {
   background-color: #494e52;
   color: #fff;
 }
+
+/* Make header title non-clickable */
+.site-title {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none !important;
+}
