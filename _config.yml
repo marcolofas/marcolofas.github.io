@@ -1,0 +1,86 @@
+# Site Settings
+title: "Marco Lofas"
+description: "Personal webpage of Marco Lofas"
+url: "https://marcolofas.github.io"
+baseurl: ""
+repository: "marcolofas/marcolofas.github.io"
+
+# Theme
+minimal_mistakes_skin: "default"
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Site Search
+search: true
+
+# Build Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Outputting
+permalink: /:categories/:title/
+timezone: America/Los_Angeles
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Includes
+include:
+  - _pages
+
+# Author
+author:
+  name: " "
+  avatar: "/assets/images/profile.jpg"
+  bio: "PhD Candidate in Economics, University of Southern California"
+  location: "Los Angeles, CA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:YOUR_EMAIL@usc.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/marcolofas"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
