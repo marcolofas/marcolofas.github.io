@@ -22,5 +22,11 @@
     opacity: 1 !important;
     filter: none !important;
     mix-blend-mode: normal !important;
+    transition: none !important;
+
+    &:hover {
+      opacity: 1 !important;
+      filter: none !important;
+    }
   }
 }
