@@ -1,9 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Marco Lo Faso - Economics PhD Candidate, USC & Harvard"
-header:
-  overlay_filter: false
+title: " "
 keywords: "Marco Lo Faso, economics, PhD candidate, USC, University of Southern California, Harvard University, spatial economics, political economy, geography of protests, George Floyd, job market paper, applied microeconomics"
 ---
 

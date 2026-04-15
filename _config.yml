@@ -43,7 +43,7 @@ include:
 author:
   name: " "
   avatar: "/assets/images/profile.jpg"
-  location: "Los Angeles, CA & Cambridge, MA"
+  location: "Los Angeles, CA"
   links:
     - label: "lofaso@usc.edu"
       icon: "fas fa-fw fa-envelope-square"
