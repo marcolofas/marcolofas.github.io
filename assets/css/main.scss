@@ -99,7 +99,7 @@ details summary:hover {
   .author__avatar img {
     max-width: 200px !important;
     width: 200px !important;
-    margin: 0 auto;
+    margin: 0 auto 15px auto;
     display: block;
   }
 
@@ -125,6 +125,10 @@ details summary:hover {
     margin: 0 !important;
   }
 
+  .author__urls:before {
+    display: none !important;
+  }
+
   .author__urls li {
     border: none !important;
     background: transparent !important;
@@ -139,6 +143,6 @@ details summary:hover {
   }
 
   .page__content {
-    font-size: 0.9em;
+    font-size: 1em;
   }
 }
