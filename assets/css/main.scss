@@ -97,8 +97,8 @@ details summary:hover {
   }
 
   .author__avatar img {
-    max-width: 150px !important;
-    width: 150px !important;
+    max-width: 200px !important;
+    width: 200px !important;
     margin: 0 auto;
     display: block;
   }
@@ -119,10 +119,26 @@ details summary:hover {
     position: relative !important;
     background: transparent !important;
     box-shadow: none !important;
+    border: none !important;
     text-align: center;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .author__urls li {
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
   }
 
   .sidebar {
     text-align: center;
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
+  .page__content {
+    font-size: 0.9em;
   }
 }
