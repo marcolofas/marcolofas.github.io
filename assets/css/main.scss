@@ -81,3 +81,48 @@ details summary:hover {
   cursor: default;
   text-decoration: none !important;
 }
+
+/* Hide Follow button everywhere */
+.author__urls-wrapper button {
+  display: none !important;
+}
+
+/* Mobile: center photo, show sidebar links, no Follow button */
+@media (max-width: 1023px) {
+  .author__avatar {
+    display: block !important;
+    text-align: center;
+    margin: 0 auto;
+    width: 100% !important;
+  }
+
+  .author__avatar img {
+    max-width: 150px !important;
+    width: 150px !important;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .author__content {
+    text-align: center;
+    width: 100%;
+    display: block;
+  }
+
+  .author__urls-wrapper {
+    display: block !important;
+    position: relative !important;
+  }
+
+  .author__urls {
+    display: block !important;
+    position: relative !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    text-align: center;
+  }
+
+  .sidebar {
+    text-align: center;
+  }
+}
