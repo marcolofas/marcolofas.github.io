@@ -180,7 +180,20 @@ details summary::-webkit-details-marker {
   }
 }
 
-/* Space between an abstract block and the title that follows it */
-.page__content details + p {
-  margin-top: 1.3em !important;
+/* One block per paper: the buttons sit close under their title,
+   and a larger gap separates one paper from the next */
+.page__content .paper {
+  margin-bottom: 2em;
+}
+
+.page__content .paper:last-child {
+  margin-bottom: 0;
+}
+
+.page__content .paper .paper-title {
+  margin-bottom: 0.35em !important;
+}
+
+.page__content .paper details {
+  margin-top: 0;
 }
