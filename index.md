@@ -15,7 +15,9 @@ I am an applied microeconomist with research interests at the intersection of sp
 
 ## Job Market Paper
 
-**"The Geography of Protests: Spatial Fragmentation, Exposure, and Participation in the George Floyd Movement"**
+**<a href="/assets/files/Lo_Faso_JMP.pdf" target="_blank" rel="noopener noreferrer">"The Geography of Protests: Spatial Fragmentation, Exposure, and Participation in the George Floyd Movement"</a>**
+
+<a href="/assets/files/Lo_Faso_JMP.pdf" target="_blank" rel="noopener noreferrer">Draft (PDF)</a>
 
 <details>
 <summary>Abstract</summary>
