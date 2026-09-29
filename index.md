@@ -31,4 +31,10 @@ I am an applied microeconomist with research interests at the intersection of sp
 
 **"The Urban Constraints on Political Mobilization: Evidence from American Cities"**
 
+<details>
+<summary><span class="paper-btn">Abstract</span></summary>
+<br>
+<small>Protests take place in urban locations with specific characteristics: venues that are spacious, centrally located and well connected to the rest of the city. This paper studies how the structure of a city constrains political mobilization, across cities and within them. Across cities, I combine data on protests in American municipalities between 2020 and 2023 with a measure of the entropy of each city's street network. Cities with a more chaotic street network have fewer protests, including violent protests and events associated with the Black Lives Matter movement. Within cities, I combine the location of protest venues with mobile phone location data and the street network, to measure how well connected each venue is to the neighborhoods around it, in distance and in travel time. I then study whether protests take place where venues are better connected, and how far participants travel to reach them. Urban structure can act as a constraint or as a coordination device for political mobilization.</small>
+</details>
+
 **"The Labor Market Returns to Religious Networks: Evidence from Uganda"** (with Aruj Shukla)
