@@ -59,7 +59,20 @@ details {
   margin-top: -5px;
 }
 
+/* The summary row holds two buttons of one format: Abstract (toggles) and Draft (PDF) (a link) */
 details summary {
+  display: inline-block;
+  cursor: default;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+.paper-btn,
+.page__content a.paper-btn,
+.page__content a.paper-btn:visited {
   cursor: pointer;
   color: #494e52;
   font-weight: bold;
@@ -68,11 +81,15 @@ details summary {
   padding: 1px 6px;
   border: 1px solid #494e52;
   border-radius: 3px;
+  text-decoration: none;
+  margin-right: 6px;
 }
 
-details summary:hover {
+.paper-btn:hover,
+.page__content a.paper-btn:hover {
   background-color: #494e52;
   color: #fff;
+  text-decoration: none;
 }
 
 /* Make header title non-clickable */
@@ -158,7 +175,7 @@ details summary:hover {
 /* Profile picture slightly larger on laptop and desktop screens */
 @media (min-width: 80em) {
   .author__avatar img {
-    max-width: 200px !important;
-    width: 200px !important;
+    max-width: 240px !important;
+    width: 240px !important;
   }
 }
