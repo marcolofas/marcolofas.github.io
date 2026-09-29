@@ -146,3 +146,19 @@ details summary:hover {
     font-size: 1em;
   }
 }
+
+/* Main text uses the full width to the right of the sidebar
+   (the theme reserves 200-300px there for a right sidebar this site does not have) */
+@media (min-width: 64em) {
+  .page {
+    padding-right: 0 !important;
+  }
+}
+
+/* Profile picture slightly larger on laptop and desktop screens */
+@media (min-width: 80em) {
+  .author__avatar img {
+    max-width: 200px !important;
+    width: 200px !important;
+  }
+}
