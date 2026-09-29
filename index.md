@@ -43,4 +43,9 @@ I am an applied microeconomist with research interests at the intersection of sp
 
 <div class="paper">
 <p class="paper-title"><strong>&ldquo;The Labor Market Returns to Religious Networks: Evidence from Uganda&rdquo;</strong> (with Aruj Shukla)</p>
+<details>
+<summary><span class="paper-btn">Abstract</span></summary>
+<br>
+<small>In the cities of Sub-Saharan Africa, firms hire through personal referrals, and most people attend a religious service every week. This paper asks whether congregations can work as a labor market network. In surveys of firm owners and workers in the welding and carpentry sectors of Kampala, owners report that finding candidates is harder than screening them, and that trustworthiness is the trait they value most in a hire. Fellow churchgoers are trusted almost as much as family, and congregations bring together people from more diverse occupations than networks of friends and relatives. Yet owners hire through referrals from other firms, friends and relatives, and almost never through their congregation. We design a randomized controlled trial in which pastors organize job matching between the firm owners and the job seekers of their congregation, to study whether a trusted and diverse network that already exists can reduce search frictions in urban labor markets.</small>
+</details>
 </div>
