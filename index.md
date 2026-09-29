@@ -9,6 +9,8 @@ I am a PhD candidate in Economics at the University of Southern California. Duri
 
 I am an applied microeconomist with research interests at the intersection of spatial economics and political economy.
 
+**I am on the 2026-2027 job market.**
+
 ---
 
 ## Job Market Paper
