@@ -30,6 +30,11 @@ I am an applied microeconomist with research interests at the intersection of sp
 
 <div class="paper">
 <p class="paper-title"><strong>&ldquo;Congregations and the Market for Urban Floor Space: Evidence from São Paulo&rdquo;</strong></p>
+<details>
+<summary><span class="paper-btn">Abstract</span></summary>
+<br>
+<small>Religious congregations compete with households and businesses for urban space. This competition is most intense in the cities of developing countries, where congregations have multiplied in recent decades. This paper studies how congregations bid for floor space in São Paulo, where more than one new congregation has opened every day for the past thirty years. Most of them do not build a temple: about three in four occupy an ordinary house or shop, the same space that residents and businesses want. They could bid on better terms, because the Brazilian constitution exempts temples from taxes, yet most stay outside the exemption. I ask where congregations locate, what their arrival does to the homes and the businesses around them, and why they do not use a privilege that was written for them. The answers matter for how fast-growing cities allocate space between worship, housing and commerce.</small>
+</details>
 </div>
 
 <div class="paper">
