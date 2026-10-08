@@ -31,8 +31,8 @@
 }
 
 .author__avatar img {
-  max-width: 225px !important;
-  width: 225px !important;
+  max-width: 175px !important;
+  width: 175px !important;
   height: auto !important;
   border-radius: 0 !important;
   padding: 0 !important;
@@ -175,8 +175,8 @@ details summary::-webkit-details-marker {
 /* Profile picture slightly larger on laptop and desktop screens */
 @media (min-width: 80em) {
   .author__avatar img {
-    max-width: 240px !important;
-    width: 240px !important;
+    max-width: 270px !important;
+    width: 270px !important;
   }
 }
 
